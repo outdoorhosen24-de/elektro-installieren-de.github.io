@@ -1,19 +1,5 @@
 [
     {
-        "key": "tesa",
-        "name": "Tesa",
-        "slug": "tesa",
-        "productCategory": "Tesa",
-        "localThumb": "/assets/images/hersteller/tesa.webp"
-    },
-    {
-        "key": "cocoon",
-        "name": "Cocoon",
-        "slug": "cocoon",
-        "productCategory": "Cocoon",
-        "localThumb": "/assets/images/hersteller/cocoon.webp"
-    },
-    {
         "key": "sonstige",
         "name": "Sonstige",
         "slug": "sonstige",
@@ -21,11 +7,53 @@
         "localThumb": "/assets/images/hersteller/sonstige.webp"
     },
     {
-        "key": "gardinia",
-        "name": "Gardinia",
-        "slug": "gardinia",
-        "productCategory": "Gardinia",
-        "localThumb": "/assets/images/hersteller/gardinia.webp"
+        "key": "lux-tools",
+        "name": "LUX-TOOLS",
+        "slug": "lux-tools",
+        "productCategory": "LUX-TOOLS",
+        "localThumb": "/assets/images/hersteller/lux-tools.webp"
+    },
+    {
+        "key": "brennenstuhl",
+        "name": "Brennenstuhl",
+        "slug": "brennenstuhl",
+        "productCategory": "Brennenstuhl",
+        "localThumb": "/assets/images/hersteller/brennenstuhl.webp"
+    },
+    {
+        "key": "emskabel",
+        "name": "Emskabel",
+        "slug": "emskabel",
+        "productCategory": "Emskabel",
+        "localThumb": "/assets/images/hersteller/emskabel.webp"
+    },
+    {
+        "key": "gira",
+        "name": "Gira",
+        "slug": "gira",
+        "productCategory": "Gira",
+        "localThumb": "/assets/images/hersteller/gira.webp"
+    },
+    {
+        "key": "rev",
+        "name": "REV",
+        "slug": "rev",
+        "productCategory": "REV",
+        "localThumb": "/assets/images/hersteller/rev.webp"
+    },
+    {
+        "key": "wago",
+        "name": "Wago",
+        "slug": "wago",
+        "productCategory": "Wago",
+        "localThumb": "/assets/images/hersteller/wago.webp"
+    },
+    {
+        "key": "abb",
+        "name": "ABB",
+        "slug": "abb",
+        "productCategory": "ABB",
+        "localThumb": "/assets/images/hersteller/abb.webp"
     },
     {
         "key": "obi",
@@ -35,27 +63,6 @@
         "localThumb": "/assets/images/hersteller/obi.webp"
     },
     {
-        "key": "moondream",
-        "name": "Moondream",
-        "slug": "moondream",
-        "productCategory": "Moondream",
-        "localThumb": "/assets/images/hersteller/moondream.webp"
-    },
-    {
-        "key": "mydeco",
-        "name": "mydeco",
-        "slug": "mydeco",
-        "productCategory": "mydeco",
-        "localThumb": "/assets/images/hersteller/mydeco.webp"
-    },
-    {
-        "key": "thermacell",
-        "name": "Thermacell",
-        "slug": "thermacell",
-        "productCategory": "Thermacell",
-        "localThumb": "/assets/images/hersteller/thermacell.webp"
-    },
-    {
         "key": "cmi",
         "name": "CMI",
         "slug": "cmi",
@@ -63,24 +70,52 @@
         "localThumb": "/assets/images/hersteller/cmi.webp"
     },
     {
-        "key": "guttagliss",
-        "name": "guttagliss",
-        "slug": "guttagliss",
-        "productCategory": "guttagliss",
-        "localThumb": "/assets/images/hersteller/guttagliss.webp"
+        "key": "busch-jaeger",
+        "name": "Busch-Jaeger",
+        "slug": "busch-jaeger",
+        "productCategory": "Busch-Jaeger",
+        "localThumb": "/assets/images/hersteller/busch-jaeger.webp"
     },
     {
-        "key": "windhager",
-        "name": "Windhager",
-        "slug": "windhager",
-        "productCategory": "Windhager",
-        "localThumb": "/assets/images/hersteller/windhager.webp"
+        "key": "kopp",
+        "name": "Kopp",
+        "slug": "kopp",
+        "productCategory": "Kopp",
+        "localThumb": "/assets/images/hersteller/kopp.webp"
     },
     {
-        "key": "velux",
-        "name": "Velux",
-        "slug": "velux",
-        "productCategory": "Velux",
-        "localThumb": "/assets/images/hersteller/velux.webp"
+        "key": "jung",
+        "name": "Jung",
+        "slug": "jung",
+        "productCategory": "Jung",
+        "localThumb": "/assets/images/hersteller/jung.webp"
+    },
+    {
+        "key": "obo",
+        "name": "OBO",
+        "slug": "obo",
+        "productCategory": "OBO",
+        "localThumb": "/assets/images/hersteller/obo.webp"
+    },
+    {
+        "key": "d-line",
+        "name": "D-Line",
+        "slug": "d-line",
+        "productCategory": "D-Line",
+        "localThumb": "/assets/images/hersteller/d-line.webp"
+    },
+    {
+        "key": "bwo",
+        "name": "BWO",
+        "slug": "bwo",
+        "productCategory": "BWO",
+        "localThumb": "/assets/images/hersteller/bwo.webp"
+    },
+    {
+        "key": "merten",
+        "name": "Merten",
+        "slug": "merten",
+        "productCategory": "Merten",
+        "localThumb": "/assets/images/hersteller/merten.webp"
     }
 ]

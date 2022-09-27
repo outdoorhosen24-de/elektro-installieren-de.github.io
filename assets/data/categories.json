@@ -1,107 +1,373 @@
 [
     {
-        "key": "insektenschutz",
-        "name": "Insektenschutz",
-        "slug": "insektenschutz",
-        "productCategory": "Insektenschutz",
+        "key": "verlängerungskabel",
+        "name": "Verlängerungskabel",
+        "slug": "verlangerungskabel",
+        "productCategory": "Verlängerungskabel",
         "subCategories": []
     },
     {
-        "key": "fliegengittertüren",
-        "name": "Fliegengittertüren",
-        "slug": "fliegengitterturen",
-        "productCategory": "Fliegengittertüren",
+        "key": "elektroinstallationsmaterial",
+        "name": "Elektroinstallationsmaterial",
+        "slug": "elektroinstallationsmaterial",
+        "productCategory": "Elektroinstallationsmaterial",
         "subCategories": []
     },
     {
-        "key": "plissees",
-        "name": "Plissees",
-        "slug": "plissees",
-        "productCategory": "Plissees",
+        "key": "kabel & leitungen",
+        "name": "Kabel & Leitungen",
+        "slug": "kabel-leitungen",
+        "productCategory": "Kabel & Leitungen",
         "subCategories": []
     },
     {
-        "key": "insektenschutzrahmen",
-        "name": "Insektenschutzrahmen",
-        "slug": "insektenschutzrahmen",
-        "productCategory": "Insektenschutzrahmen",
+        "key": "feuchtraumleitungen",
+        "name": "Feuchtraumleitungen",
+        "slug": "feuchtraumleitungen",
+        "productCategory": "Feuchtraumleitungen",
         "subCategories": []
     },
     {
-        "key": "stil- & seilspanngarnituren",
-        "name": "Stil- & Seilspanngarnituren",
-        "slug": "stil-seilspanngarnituren",
-        "productCategory": "Stil- & Seilspanngarnituren",
+        "key": "kabelverlegung",
+        "name": "Kabelverlegung",
+        "slug": "kabelverlegung",
+        "productCategory": "Kabelverlegung",
         "subCategories": []
     },
     {
-        "key": "lamellenvorhänge",
-        "name": "Lamellenvorhänge",
-        "slug": "lamellenvorhange",
-        "productCategory": "Lamellenvorhänge",
+        "key": "kabelkanäle",
+        "name": "Kabelkanäle",
+        "slug": "kabelkanale",
+        "productCategory": "Kabelkanäle",
         "subCategories": []
     },
     {
-        "key": "rollos & raffrollos",
-        "name": "Rollos & Raffrollos",
-        "slug": "rollos-raffrollos",
-        "productCategory": "Rollos & Raffrollos",
+        "key": "leerrohre",
+        "name": "Leerrohre",
+        "slug": "leerrohre",
+        "productCategory": "Leerrohre",
         "subCategories": []
     },
     {
-        "key": "jalousien",
-        "name": "Jalousien",
-        "slug": "jalousien",
-        "productCategory": "Jalousien",
+        "key": "elektriker-werkzeug",
+        "name": "Elektriker-Werkzeug",
+        "slug": "elektriker-werkzeug",
+        "productCategory": "Elektriker-Werkzeug",
         "subCategories": []
     },
     {
-        "key": "gardinenschienen",
-        "name": "Gardinenschienen",
-        "slug": "gardinenschienen",
-        "productCategory": "Gardinenschienen",
+        "key": "messwerkzeuge & stromprüfer",
+        "name": "Messwerkzeuge & Stromprüfer",
+        "slug": "messwerkzeuge-stromprufer",
+        "productCategory": "Messwerkzeuge & Stromprüfer",
         "subCategories": []
     },
     {
-        "key": "fenstervorhänge",
-        "name": "Fenstervorhänge",
-        "slug": "fenstervorhange",
-        "productCategory": "Fenstervorhänge",
+        "key": "mehrfachsteckdosen",
+        "name": "Mehrfachsteckdosen",
+        "slug": "mehrfachsteckdosen",
+        "productCategory": "Mehrfachsteckdosen",
         "subCategories": []
     },
     {
-        "key": "vitragestangen",
-        "name": "Vitragestangen",
-        "slug": "vitragestangen",
-        "productCategory": "Vitragestangen",
+        "key": "steckdosenleisten",
+        "name": "Steckdosenleisten",
+        "slug": "steckdosenleisten",
+        "productCategory": "Steckdosenleisten",
         "subCategories": []
     },
     {
-        "key": "insektenschutzzubehör",
-        "name": "Insektenschutzzubehör",
-        "slug": "insektenschutzzubehor",
-        "productCategory": "Insektenschutzzubehör",
+        "key": "verteiler & sicherungskästen",
+        "name": "Verteiler & Sicherungskästen",
+        "slug": "verteiler-sicherungskasten",
+        "productCategory": "Verteiler & Sicherungskästen",
         "subCategories": []
     },
     {
-        "key": "türdichtungen & fensterdichtungen",
-        "name": "Türdichtungen & Fensterdichtungen",
-        "slug": "turdichtungen-fensterdichtungen",
-        "productCategory": "Türdichtungen & Fensterdichtungen",
+        "key": "aufputzverteiler",
+        "name": "Aufputzverteiler",
+        "slug": "aufputzverteiler",
+        "productCategory": "Aufputzverteiler",
         "subCategories": []
     },
     {
-        "key": "fliegengitterfenster",
-        "name": "Fliegengitterfenster",
-        "slug": "fliegengitterfenster",
-        "productCategory": "Fliegengitterfenster",
+        "key": "schalterdosen",
+        "name": "Schalterdosen",
+        "slug": "schalterdosen",
+        "productCategory": "Schalterdosen",
         "subCategories": []
     },
     {
-        "key": "insektenschutznetze",
-        "name": "Insektenschutznetze",
-        "slug": "insektenschutznetze",
-        "productCategory": "Insektenschutznetze",
+        "key": "hohlwanddosen",
+        "name": "Hohlwanddosen",
+        "slug": "hohlwanddosen",
+        "productCategory": "Hohlwanddosen",
+        "subCategories": []
+    },
+    {
+        "key": "erdkabel",
+        "name": "Erdkabel",
+        "slug": "erdkabel",
+        "productCategory": "Erdkabel",
+        "subCategories": []
+    },
+    {
+        "key": "schalterprogramme",
+        "name": "Schalterprogramme",
+        "slug": "schalterprogramme",
+        "productCategory": "Schalterprogramme",
+        "subCategories": []
+    },
+    {
+        "key": "unterputzschalterprogramme",
+        "name": "Unterputzschalterprogramme",
+        "slug": "unterputzschalterprogramme",
+        "productCategory": "Unterputzschalterprogramme",
+        "subCategories": []
+    },
+    {
+        "key": "steckdosen",
+        "name": "Steckdosen",
+        "slug": "steckdosen",
+        "productCategory": "Steckdosen",
+        "subCategories": []
+    },
+    {
+        "key": "flexrohre",
+        "name": "Flexrohre",
+        "slug": "flexrohre",
+        "productCategory": "Flexrohre",
+        "subCategories": []
+    },
+    {
+        "key": "stecker & kupplungen",
+        "name": "Stecker & Kupplungen",
+        "slug": "stecker-kupplungen",
+        "productCategory": "Stecker & Kupplungen",
+        "subCategories": []
+    },
+    {
+        "key": "zwischenstecker",
+        "name": "Zwischenstecker",
+        "slug": "zwischenstecker",
+        "productCategory": "Zwischenstecker",
+        "subCategories": []
+    },
+    {
+        "key": "verteilungseinbau",
+        "name": "Verteilungseinbau",
+        "slug": "verteilungseinbau",
+        "productCategory": "Verteilungseinbau",
+        "subCategories": []
+    },
+    {
+        "key": "fi-schutzschalter",
+        "name": "FI-Schutzschalter",
+        "slug": "fi-schutzschalter",
+        "productCategory": "FI-Schutzschalter",
+        "subCategories": []
+    },
+    {
+        "key": "verbindungsmaterial",
+        "name": "Verbindungsmaterial",
+        "slug": "verbindungsmaterial",
+        "productCategory": "Verbindungsmaterial",
+        "subCategories": []
+    },
+    {
+        "key": "verbindungsklemmen",
+        "name": "Verbindungsklemmen",
+        "slug": "verbindungsklemmen",
+        "productCategory": "Verbindungsklemmen",
+        "subCategories": []
+    },
+    {
+        "key": "schutzkontaktstecker",
+        "name": "Schutzkontaktstecker",
+        "slug": "schutzkontaktstecker",
+        "productCategory": "Schutzkontaktstecker",
+        "subCategories": []
+    },
+    {
+        "key": "leitungsschutzschalter",
+        "name": "Leitungsschutzschalter",
+        "slug": "leitungsschutzschalter",
+        "productCategory": "Leitungsschutzschalter",
+        "subCategories": []
+    },
+    {
+        "key": "kabeltrommeln",
+        "name": "Kabeltrommeln",
+        "slug": "kabeltrommeln",
+        "productCategory": "Kabeltrommeln",
+        "subCategories": []
+    },
+    {
+        "key": "gummischlauchleitungen",
+        "name": "Gummischlauchleitungen",
+        "slug": "gummischlauchleitungen",
+        "productCategory": "Gummischlauchleitungen",
+        "subCategories": []
+    },
+    {
+        "key": "lampeninstallation",
+        "name": "Lampeninstallation",
+        "slug": "lampeninstallation",
+        "productCategory": "Lampeninstallation",
+        "subCategories": []
+    },
+    {
+        "key": "kabelbefestigungen",
+        "name": "Kabelbefestigungen",
+        "slug": "kabelbefestigungen",
+        "productCategory": "Kabelbefestigungen",
+        "subCategories": []
+    },
+    {
+        "key": "kabelbinder",
+        "name": "Kabelbinder",
+        "slug": "kabelbinder",
+        "productCategory": "Kabelbinder",
+        "subCategories": []
+    },
+    {
+        "key": "stromzähler",
+        "name": "Stromzähler",
+        "slug": "stromzahler",
+        "productCategory": "Stromzähler",
+        "subCategories": []
+    },
+    {
+        "key": "herdanschlusskabel",
+        "name": "Herdanschlusskabel",
+        "slug": "herdanschlusskabel",
+        "productCategory": "Herdanschlusskabel",
+        "subCategories": []
+    },
+    {
+        "key": "feinsicherungen",
+        "name": "Feinsicherungen",
+        "slug": "feinsicherungen",
+        "productCategory": "Feinsicherungen",
+        "subCategories": []
+    },
+    {
+        "key": "feuchtraumschalterprogramme",
+        "name": "Feuchtraumschalterprogramme",
+        "slug": "feuchtraumschalterprogramme",
+        "productCategory": "Feuchtraumschalterprogramme",
+        "subCategories": []
+    },
+    {
+        "key": "schalter & taster",
+        "name": "Schalter & Taster",
+        "slug": "schalter-taster",
+        "productCategory": "Schalter & Taster",
+        "subCategories": []
+    },
+    {
+        "key": "abdeckrahmen",
+        "name": "Abdeckrahmen",
+        "slug": "abdeckrahmen",
+        "productCategory": "Abdeckrahmen",
+        "subCategories": []
+    },
+    {
+        "key": "lüsterklemmen",
+        "name": "Lüsterklemmen",
+        "slug": "lusterklemmen",
+        "productCategory": "Lüsterklemmen",
+        "subCategories": []
+    },
+    {
+        "key": "schalterdosen-zubehör",
+        "name": "Schalterdosen-Zubehör",
+        "slug": "schalterdosen-zubehor",
+        "productCategory": "Schalterdosen-Zubehör",
+        "subCategories": []
+    },
+    {
+        "key": "unterputzdosen",
+        "name": "Unterputzdosen",
+        "slug": "unterputzdosen",
+        "productCategory": "Unterputzdosen",
+        "subCategories": []
+    },
+    {
+        "key": "abzweigkasten",
+        "name": "Abzweigkasten",
+        "slug": "abzweigkasten",
+        "productCategory": "Abzweigkasten",
+        "subCategories": []
+    },
+    {
+        "key": "aufputzschalterprogramme",
+        "name": "Aufputzschalterprogramme",
+        "slug": "aufputzschalterprogramme",
+        "productCategory": "Aufputzschalterprogramme",
+        "subCategories": []
+    },
+    {
+        "key": "schmelzsicherungen",
+        "name": "Schmelzsicherungen",
+        "slug": "schmelzsicherungen",
+        "productCategory": "Schmelzsicherungen",
+        "subCategories": []
+    },
+    {
+        "key": "blindabdeckungen",
+        "name": "Blindabdeckungen",
+        "slug": "blindabdeckungen",
+        "productCategory": "Blindabdeckungen",
+        "subCategories": []
+    },
+    {
+        "key": "isolierbänder",
+        "name": "Isolierbänder",
+        "slug": "isolierbander",
+        "productCategory": "Isolierbänder",
+        "subCategories": []
+    },
+    {
+        "key": "brüstungskanäle",
+        "name": "Brüstungskanäle",
+        "slug": "brustungskanale",
+        "productCategory": "Brüstungskanäle",
+        "subCategories": []
+    },
+    {
+        "key": "schutzkontaktkupplungen",
+        "name": "Schutzkontaktkupplungen",
+        "slug": "schutzkontaktkupplungen",
+        "productCategory": "Schutzkontaktkupplungen",
+        "subCategories": []
+    },
+    {
+        "key": "relaiseinsätze & schalteinsätze",
+        "name": "Relaiseinsätze & Schalteinsätze",
+        "slug": "relaiseinsatze-schalteinsatze",
+        "productCategory": "Relaiseinsätze & Schalteinsätze",
+        "subCategories": []
+    },
+    {
+        "key": "kabelschellen",
+        "name": "Kabelschellen",
+        "slug": "kabelschellen",
+        "productCategory": "Kabelschellen",
+        "subCategories": []
+    },
+    {
+        "key": "kunststoffschlauchleitungen",
+        "name": "Kunststoffschlauchleitungen",
+        "slug": "kunststoffschlauchleitungen",
+        "productCategory": "Kunststoffschlauchleitungen",
+        "subCategories": []
+    },
+    {
+        "key": "fehlerstromschutzschalter",
+        "name": "Fehlerstromschutzschalter",
+        "slug": "fehlerstromschutzschalter",
+        "productCategory": "Fehlerstromschutzschalter",
         "subCategories": []
     }
 ]
