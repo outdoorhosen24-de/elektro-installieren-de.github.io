@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/kategorie/blindabdeckungen", {data:[{_img:{"/_ipx/f_webp,q_90,s_407x229/assets/images/images/jung-blindabdeckung-mit-tragring-as-500-alpinweisz-jung-2011997-1.jpg":"\u002Fassets\u002Fimages\u002Fjung-blindabdeckung-mit-tragring-as-500-alpinweisz-jung-2011997-1.webp"}}],fetch:{},mutations:void 0});
