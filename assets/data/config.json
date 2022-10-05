@@ -1,12 +1,12 @@
 {
-    "configIsReady": false,
-    "domain": "wassersport24.net",
-    "hostname": "https://wassersport24.net/",
-    "email": "wassersport24.net@surrealnetworks.io",
-    "organization": "wassersport24.net",
-    "logoText": "Wassersport24.net",
-    "title": "title",
-    "subline": "subline",
+    "configIsReady": true,
+    "domain": "elektro-installieren.de",
+    "hostname": "https://www.elektro-installieren.de/",
+    "email": "elektro-installieren.desurrealnetworks.io",
+    "organization": "elektro-installieren.de",
+    "logoText": "Elektro-installieren.de",
+    "title": "Elektroinstallation",
+    "subline": "Der Online Shop f\u00fcr Elektroinstallation",
     "companyAddress": "Uvoz 159/26 - Praha 1 - Hradcany, CZ",
     "imageFolder": "/assets/images/images/",
     "productUrl": "/produkt/",
@@ -14,9 +14,27 @@
     "numberOfProductsOnStartpage": 18,
     "numberMaximumProductsPerCategory": 100,
     "numberOfRelevantProduct": 12,
-    "popularProducts": [],
-    "winnerProducts": [],
-    "featuredCategories": [],
+    "popularProducts": [
+        "7510605",
+        "4532537",
+        "1698158",
+        "3621760",
+        "7623325",
+        "5341946"
+    ],
+    "winnerProducts": [
+        "2481828",
+        "3215779",
+        "1697614"
+    ],
+    "featuredCategories": [
+        "Gummischlauchleitungen",
+        "Unterputzschalterprogramme",
+        "Verl\u00e4ngerungskabel",
+        "Kabeltrommeln",
+        "Stromz\u00e4hler",
+        "Abzweigkasten"
+    ],
     "socialMediaAccounts": [],
     "imageQuality": 90,
     "checklist": [
@@ -28,37 +46,33 @@
     "seo": {
         "htmlLang": "de",
         "mainKeyword": "Elektroinstallation",
-        "featureText": "Your featured text goes here",
+        "featureText": "Die Firma \"Elektroinstallation\" ist ein Fachgesch\u00e4ft f\u00fcr Elektroinstallationen. Hier finden Sie alles, was Sie f\u00fcr Ihre Elektroinstallation ben\u00f6tigen. Vom einfachen Stecker bis zum komplexen Schaltschrank finden Sie alles, was Sie f\u00fcr Ihre Installation ben\u00f6tigen.",
         "index": {
-            "title": "",
-            "metaDescription": "",
-            "robots": "nofollow, noindex",
+            "title": "Elektroinstallationen im Shop",
+            "metaDescription": "Der Shop f\u00fcr Elektroinstallation bietet alles, was Sie f\u00fcr Ihre Installation ben\u00f6tigen. Vom Kabelschutz bis zum Schalter finden Sie alles, was Sie f\u00fcr Ihre Installation ben\u00f6tigen.",
+            "robots": "index, follow",
             "texts": [
                 {
-                    "title": "Title of a SEO Text",
-                    "text": "Text of a SEO Text"
-                },
-                {
-                    "title": "New title",
-                    "text": "new text"
+                    "title": "Elektroinstallation",
+                    "text": "Die Elektroinstallation ist eine wichtige Komponente in jedem Haus oder Geb\u00e4ude. Sie sorgt daf\u00fcr, dass alle elektrischen Ger\u00e4te und Komponenten richtig funktionieren und sicher sind. Ohne eine ordnungsgem\u00e4\u00dfe Elektroinstallation k\u00f6nnen Stromausf\u00e4lle, \u00dcberhitzungen und sogar Br\u00e4nde die Folge sein.\n\nDie erste Sache, die Sie tun sollten, wenn Sie planen, eine Elektroinstallation durchzuf\u00fchren, ist, einen qualifizierten Elektriker zu finden. Dieser kann Ihnen helfen, das richtige Design f\u00fcr Ihre Bed\u00fcrfnisse zu erstellen und sicherzustellen, dass die Installation ordnungsgem\u00e4\u00df durchgef\u00fchrt wird.\n\nEin weiterer wichtiger Aspekt der Elektroinstallation ist die Wahl der richtigen Kabel. Es gibt verschiedene Arten von Kabeln, die f\u00fcr verschiedene Zwecke verwendet werden. Sie m\u00fcssen sicherstellen, dass Sie das richtige Kabel f\u00fcr Ihre Bed\u00fcrfnisse ausw\u00e4hlen, um sicherzustellen, dass Ihre Ger\u00e4te sicher und zuverl\u00e4ssig sind.\n\nSchlie\u00dflich ist auch die Art der Steckdosen und Schalter, die Sie verwenden, sehr wichtig. Es gibt verschiedene Arten von Steckdosen und Schaltern, die f\u00fcr verschiedene Ger\u00e4te und Komponenten geeignet sind. Sie m\u00fcssen sicherstellen, dass Sie die richtigen Steckdosen und Schalter f\u00fcr Ihre Bed\u00fcrfnisse ausw\u00e4hlen, um sicherzustellen, dass Ihre Ger\u00e4te sicher"
                 }
             ]
         },
         "shop": {
-            "title": "",
-            "metaDescription": "",
-            "robots": "nofollow, noindex"
+            "title": "Elektroinstallation Shop",
+            "metaDescription": "Der Shop f\u00fcr Elektroinstallation bietet alles, was Sie f\u00fcr Ihre Installation ben\u00f6tigen. Schnelle Lieferung und kompetente Beratung.",
+            "robots": "index, follow"
         },
         "hersteller": {
-            "title": "",
-            "metaDescription": "",
-            "robots": "nofollow, noindex"
+            "title": "Elektroinstallation manufacturer page",
+            "metaDescription": "Der f\u00fchrende Hersteller von Elektroinstallationen in Deutschland. Wir bieten hochwertige Produkte und Dienstleistungen f\u00fcr unsere Kunden.",
+            "robots": "index, follow"
         }
     },
     "productSeo": {
-        "defaultTitle": "",
-        "defaultMetaDescription": "",
-        "defaultRobots": "nofollow, noindex",
+        "defaultTitle": "$PRODUKT: Die beste Elektroinstallation f\u00fcr Ihr Zuhause",
+        "defaultMetaDescription": "$PRODUKT von $HERSTELLER - die beste Wahl f\u00fcr Ihre Elektroinstallation. Top Qualit\u00e4t zu g\u00fcnstigen Preisen. Jetzt online bestellen!",
+        "defaultRobots": "index, follow",
         "products": [
             {
                 "sku": "5637909794",
@@ -72,9 +86,9 @@
         ]
     },
     "categorySeo": {
-        "defaultTitle": "",
-        "defaultMetaDescription": "",
-        "defaultRobots": "nofollow, noindex",
+        "defaultTitle": "$KATEGORIE: Die besten Tipps f\u00fcr die Elektroinstallation",
+        "defaultMetaDescription": "$KATEGORIE - alles f\u00fcr die Elektroinstallation in Haushalt und Gewerbe. Schnelle Lieferung, top Qualit\u00e4t und g\u00fcnstige Preise!",
+        "defaultRobots": "index, follow",
         "categories": [
             {
                 "key": "sporthosen",
@@ -100,8 +114,8 @@
     },
     "brandSeo": {
         "defaultTitle": "",
-        "defaultMetaDescription": "",
-        "defaultRobots": "nofollow, noindex",
+        "defaultMetaDescription": "$HERSTELLER ist Ihr kompetenter Ansprechpartner f\u00fcr Elektroinstallation. Wir beraten und planen Ihre Installation sorgf\u00e4ltig und setzen sie fachgerecht um.",
+        "defaultRobots": "index, follow",
         "brands": [
             {
                 "key": "palm",
@@ -118,26 +132,30 @@
         {
             "title": "Start",
             "linkTo": "/",
-            "linkTitle": "Wassersport",
+            "linkTitle": "Elektroinstallation",
             "publish": true
         },
         {
             "title": "Shop",
             "linkTo": "/shop/",
-            "linkTitle": "Wassersport Shop",
+            "linkTitle": "Elektroinstallation Shop",
             "publish": true
         },
         {
             "title": "Marken",
             "linkTo": "/marken/",
-            "linkTitle": "Wassersport Marken",
+            "linkTitle": "Elektroinstallation Marken",
             "publish": true
         },
         {
             "title": "Kontakt",
             "linkTo": "/kontakt/",
-            "linkTitle": "Wassersport Kontakt",
+            "linkTitle": "Kontakt",
             "publish": false
         }
-    ]
+    ],
+    "ai": {
+        "enabled": true,
+        "engine": 1
+    }
 }
