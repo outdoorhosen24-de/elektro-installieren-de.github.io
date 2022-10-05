@@ -1,1 +1,0 @@
-__NUXT_JSONP__("/kategorie/fehlerstromschutzschalter", {data:[{_img:{"/_ipx/f_webp,q_90,s_407x229/assets/images/images/abb-fi-schalter-4-polig-40-a-abb-3108693-1.jpg":"\u002Fassets\u002Fimages\u002Fabb-fi-schalter-4-polig-40-a-abb-3108693-1.webp"}}],fetch:{},mutations:void 0});

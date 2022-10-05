@@ -1,1 +1,0 @@
-__NUXT_JSONP__("/kategorie/isolierbander", {data:[{_img:{"/_ipx/f_webp,q_90,s_407x229/assets/images/images/obi-isolierband-schwarz-15-mm-x-10-m-obi-9513045-1.jpg":"\u002Fassets\u002Fimages\u002Fobi-isolierband-schwarz-15-mm-x-10-m-obi-9513045-1.webp"}}],fetch:{},mutations:void 0});
