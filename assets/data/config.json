@@ -51,12 +51,15 @@
             "title": "Elektroinstallationen im Shop",
             "metaDescription": "Der Shop für Elektroinstallation bietet alles, was Sie für Ihre Installation benötigen. Vom Kabelschutz bis zum Schalter finden Sie alles, was Sie für Ihre Installation benötigen.",
             "robots": "index, follow",
-            "texts": [
-                {
-                    "title": "Elektroinstallation",
-                    "text": "Die Elektroinstallation ist eine wichtige Komponente in jedem Haus oder Gebäude. Sie sorgt dafür, dass alle elektrischen Geräte und Komponenten richtig funktionieren und sicher sind. Ohne eine ordnungsgemäße Elektroinstallation können Stromausfälle, Überhitzungen und sogar Brände die Folge sein.\n\nDie erste Sache, die Sie tun sollten, wenn Sie planen, eine Elektroinstallation durchzuführen, ist, einen qualifizierten Elektriker zu finden. Dieser kann Ihnen helfen, das richtige Design für Ihre Bedürfnisse zu erstellen und sicherzustellen, dass die Installation ordnungsgemäß durchgeführt wird.\n\nEin weiterer wichtiger Aspekt der Elektroinstallation ist die Wahl der richtigen Kabel. Es gibt verschiedene Arten von Kabeln, die für verschiedene Zwecke verwendet werden. Sie müssen sicherstellen, dass Sie das richtige Kabel für Ihre Bedürfnisse auswählen, um sicherzustellen, dass Ihre Geräte sicher und zuverlässig sind.\n\nSchließlich ist auch die Art der Steckdosen und Schalter, die Sie verwenden, sehr wichtig. Es gibt verschiedene Arten von Steckdosen und Schaltern, die für verschiedene Geräte und Komponenten geeignet sind. Sie müssen sicherstellen, dass Sie die richtigen Steckdosen und Schalter für Ihre Bedürfnisse auswählen, um sicherzustellen, dass Ihre Geräte sicher"
-                }
-            ]
+            "seotext": {
+                "published": false,
+                "content": [
+                    {
+                        "title": "Elektroinstallation",
+                        "text": "Die Elektroinstallation ist eine wichtige Komponente in jedem Haus oder Gebäude. Sie sorgt dafür, dass alle elektrischen Geräte und Komponenten richtig funktionieren und sicher sind. Ohne eine ordnungsgemäße Elektroinstallation können Stromausfälle, Überhitzungen und sogar Brände die Folge sein.\n\nDie erste Sache, die Sie tun sollten, wenn Sie planen, eine Elektroinstallation durchzuführen, ist, einen qualifizierten Elektriker zu finden. Dieser kann Ihnen helfen, das richtige Design für Ihre Bedürfnisse zu erstellen und sicherzustellen, dass die Installation ordnungsgemäß durchgeführt wird.\n\nEin weiterer wichtiger Aspekt der Elektroinstallation ist die Wahl der richtigen Kabel. Es gibt verschiedene Arten von Kabeln, die für verschiedene Zwecke verwendet werden. Sie müssen sicherstellen, dass Sie das richtige Kabel für Ihre Bedürfnisse auswählen, um sicherzustellen, dass Ihre Geräte sicher und zuverlässig sind.\n\nSchließlich ist auch die Art der Steckdosen und Schalter, die Sie verwenden, sehr wichtig. Es gibt verschiedene Arten von Steckdosen und Schaltern, die für verschiedene Geräte und Komponenten geeignet sind. Sie müssen sicherstellen, dass Sie die richtigen Steckdosen und Schalter für Ihre Bedürfnisse auswählen, um sicherzustellen, dass Ihre Geräte sicher"
+                    }
+                ]
+            }
         },
         "shop": {
             "title": "Elektroinstallation Shop",
