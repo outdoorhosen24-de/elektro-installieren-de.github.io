@@ -1,12 +1,12 @@
 {
-    "configIsReady": false,
+    "configIsReady": true,
     "domain": "elektro-installieren.de",
     "hostname": "https://www.elektro-installieren.de/",
     "email": "elektro-installieren.de@surrealnetworks.io",
     "organization": "elektro-installieren.de",
     "logoText": "Elektro-installieren.de",
     "title": "Elektroinstallation",
-    "subline": "Der Online Shop für Elektroinstallation",
+    "subline": "Der Online Shop für jede Elektroinstallation",
     "companyAddress": "Uvoz 159/26 - Praha 1 - Hradcany, CZ",
     "imageFolder": "/assets/images/images/",
     "productUrl": "/produkt/",
@@ -46,10 +46,10 @@
     "seo": {
         "htmlLang": "de",
         "mainKeyword": "Elektroinstallation",
-        "featureText": "Die Firma \"Elektroinstallation\" ist ein Fachgeschäft für Elektroinstallationen. Hier finden Sie alles, was Sie für Ihre Elektroinstallation benötigen. Vom einfachen Stecker bis zum komplexen Schaltschrank finden Sie alles, was Sie für Ihre Installation benötigen.",
+        "featureText": "Bei uns finden Sie alles, was für eine Elektroinstallation benötigt wird! Wir haben für Sie eine riesige Auswahl an Produkten zusammengestellt. Übersichtlich dargestellt in Kategorien, sodass Ihnen die Produktsuche besonders leicht fallen wird.\nAußerdem finden Sie eine Auflistung all unserer Hersteller auf einen Blick. Überzeugen Sie sich von unserem umfangreichen Angebot und klicken Sie sich durch unseren Shop!",
         "index": {
-            "title": "Elektroinstallationen im Shop",
-            "metaDescription": "Der Shop für Elektroinstallation bietet alles, was Sie für Ihre Installation benötigen. Vom Kabelschutz bis zum Schalter finden Sie alles, was Sie für Ihre Installation benötigen.",
+            "title": "Elektroinstallation - Günstig online kaufen",
+            "metaDescription": "Bei uns erhältlich! | Elektroinstallationsmaterial • Kabel jeder Art • Leerrohre • Werkzeug • FI-Schutzschalter • Stromzähler • Steckdosen • Abdeckungen uvm. ",
             "robots": "index, follow",
             "seotext": {
                 "published": false,
@@ -62,19 +62,19 @@
             }
         },
         "shop": {
-            "title": "Elektroinstallation Shop",
-            "metaDescription": "Der Shop für Elektroinstallation bietet alles, was Sie für Ihre Installation benötigen. Schnelle Lieferung und kompetente Beratung.",
+            "title": "Elektroinstallation | Der Online Shop ",
+            "metaDescription": "In unserem Shop finden Sie Alles, was für Ihre Elektroinstallation nötig ist! | Bestellen Sie einfach online | Günstige Preise | Schnelle Lieferung ",
             "robots": "index, follow"
         },
         "hersteller": {
-            "title": "Elektroinstallation manufacturer page",
-            "metaDescription": "Der führende Hersteller von Elektroinstallationen in Deutschland. Wir bieten hochwertige Produkte und Dienstleistungen für unsere Kunden.",
+            "title": "Elektroinstallation | Unsere Hersteller ",
+            "metaDescription": "Eine Auflistung all unserer Hersteller für den Bereich Elektroinstallation auf einen Blick | Darunter Hersteller wie: Emskabel • Gira • Wago • Busch-Jaeger uvm.",
             "robots": "index, follow"
         }
     },
     "productSeo": {
-        "defaultTitle": "$PRODUKT: Die beste Elektroinstallation für Ihr Zuhause",
-        "defaultMetaDescription": "$PRODUKT von $HERSTELLER - die beste Wahl für Ihre Elektroinstallation. Top Qualität zu günstigen Preisen. Jetzt online bestellen!",
+        "defaultTitle": "$PRODUKT | Elektroinstallation",
+        "defaultMetaDescription": "Kaufen Sie $PRODUKT von $HERSTELLER - die beste Wahl für Ihre Elektroinstallation. | Weitere hochwertige Produkte aus der Kategorie $KATEGORIE in unserm Shop!",
         "defaultRobots": "index, follow",
         "products": [
             {
@@ -89,8 +89,8 @@
         ]
     },
     "categorySeo": {
-        "defaultTitle": "$KATEGORIE: Die besten Tipps für die Elektroinstallation",
-        "defaultMetaDescription": "$KATEGORIE - alles für die Elektroinstallation in Haushalt und Gewerbe. Schnelle Lieferung, top Qualität und günstige Preise!",
+        "defaultTitle": "$KATEGORIE - Umfangreiches Sortiment",
+        "defaultMetaDescription": "$KATEGORIE - Alles zum Thema Elektroinstallation | Entdecken Sie viele hochwertige Produkte im Bereich $KATEGORIE | Günstig bestellen | Schnelle Lieferung!",
         "defaultRobots": "index, follow",
         "categories": [
             {
@@ -116,8 +116,8 @@
         ]
     },
     "brandSeo": {
-        "defaultTitle": "",
-        "defaultMetaDescription": "$HERSTELLER ist Ihr kompetenter Ansprechpartner für Elektroinstallation. Wir beraten und planen Ihre Installation sorgfältig und setzen sie fachgerecht um.",
+        "defaultTitle": "$HERSTELLER - Top Produkte zum günstigen Preis",
+        "defaultMetaDescription": "$HERSTELLER ist langjähriger und namhafter Hersteller für Elektroinstallation! Wählen Sie aus einer großen Auswahl hochwertiger Produkte in unserem Shop!",
         "defaultRobots": "index, follow",
         "brands": [
             {
