@@ -2,7 +2,7 @@
     {
         "key": "verlängerungskabel",
         "name": "Verlängerungskabel",
-        "slug": "verlangerungskabel",
+        "slug": "verlaengerungskabel",
         "productCategory": "Verlängerungskabel",
         "subCategories": []
     },
@@ -37,7 +37,7 @@
     {
         "key": "kabelkanäle",
         "name": "Kabelkanäle",
-        "slug": "kabelkanale",
+        "slug": "kabelkanaele",
         "productCategory": "Kabelkanäle",
         "subCategories": []
     },
@@ -58,7 +58,7 @@
     {
         "key": "messwerkzeuge & stromprüfer",
         "name": "Messwerkzeuge & Stromprüfer",
-        "slug": "messwerkzeuge-stromprufer",
+        "slug": "messwerkzeuge-strompruefer",
         "productCategory": "Messwerkzeuge & Stromprüfer",
         "subCategories": []
     },
@@ -79,7 +79,7 @@
     {
         "key": "verteiler & sicherungskästen",
         "name": "Verteiler & Sicherungskästen",
-        "slug": "verteiler-sicherungskasten",
+        "slug": "verteiler-sicherungskaesten",
         "productCategory": "Verteiler & Sicherungskästen",
         "subCategories": []
     },
@@ -233,7 +233,7 @@
     {
         "key": "stromzähler",
         "name": "Stromzähler",
-        "slug": "stromzahler",
+        "slug": "stromzaehler",
         "productCategory": "Stromzähler",
         "subCategories": []
     },
@@ -275,14 +275,14 @@
     {
         "key": "lüsterklemmen",
         "name": "Lüsterklemmen",
-        "slug": "lusterklemmen",
+        "slug": "luesterklemmen",
         "productCategory": "Lüsterklemmen",
         "subCategories": []
     },
     {
         "key": "schalterdosen-zubehör",
         "name": "Schalterdosen-Zubehör",
-        "slug": "schalterdosen-zubehor",
+        "slug": "schalterdosen-zubehoer",
         "productCategory": "Schalterdosen-Zubehör",
         "subCategories": []
     },
@@ -324,14 +324,14 @@
     {
         "key": "isolierbänder",
         "name": "Isolierbänder",
-        "slug": "isolierbander",
+        "slug": "isolierbaender",
         "productCategory": "Isolierbänder",
         "subCategories": []
     },
     {
         "key": "brüstungskanäle",
         "name": "Brüstungskanäle",
-        "slug": "brustungskanale",
+        "slug": "bruestungskanaele",
         "productCategory": "Brüstungskanäle",
         "subCategories": []
     },
@@ -345,7 +345,7 @@
     {
         "key": "relaiseinsätze & schalteinsätze",
         "name": "Relaiseinsätze & Schalteinsätze",
-        "slug": "relaiseinsatze-schalteinsatze",
+        "slug": "relaiseinsaetze-schalteinsaetze",
         "productCategory": "Relaiseinsätze & Schalteinsätze",
         "subCategories": []
     },
